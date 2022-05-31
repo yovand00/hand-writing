@@ -2,8 +2,8 @@ import numpy as np
 import cv2
 
 class Freehand:
-    width = 800
-    height = 1000
+    height = 494
+    width = 224
     x = 0
     y = 0
     drawing = False
